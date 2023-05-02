@@ -59,6 +59,6 @@ switch (true) {
         countryList.innerHTML = "";
         Notiflix.Notify.warning("Too many matches found. Please enter a more specific name.");
         break;
-  }
+    };
 }
 
